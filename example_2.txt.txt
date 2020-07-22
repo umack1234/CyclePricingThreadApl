@@ -1,0 +1,10 @@
+{"frame":"steelFrame","handleBarWithBrakes":"normalHandleBar","seating":"customSeating","wheels":"tube","chainAssembly":"localChain"}
+{"frame":"steelFrame","handleBarWithBrakes":"normalHandleBar","seating":"customSeating","wheels":"tube","chainAssembly":"localChain"}
+{"frame":"steelFrame","handleBarWithBrakes":"normalHandleBar","seating":"customSeating","wheels":"tube","chainAssembly":"localChain"}
+{"frame":"steelFrame","handleBarWithBrakes":"normalHandleBar","seating":"customSeating","wheels":"tube","chainAssembly":"localChain"}
+{"frame":"steelFrame","handleBarWithBrakes":"normalHandleBar","seating":"customSeating","wheels":"tube","chainAssembly":"localChain"}
+{"frame":"steelFrame","handleBarWithBrakes":"normalHandleBar","seating":"customSeating","wheels":"tube","chainAssembly":"localChain"}
+{"frame":"steelFrame","handleBarWithBrakes":"normalHandleBar","seating":"customSeating","wheels":"tube","chainAssembly":"localChain"}
+{"frame":"steelFrame","handleBarWithBrakes":"normalHandleBar","seating":"customSeating","wheels":"tube","chainAssembly":"localChain"}
+{"frame":"steelFrame","handleBarWithBrakes":"normalHandleBar","seating":"customSeating","wheels":"tube","chainAssembly":"localChain"}
+{"frame":"steelFrame","handleBarWithBrakes":"normalHandleBar","seating":"customSeating","wheels":"tube","chainAssembly":"localChain"}
